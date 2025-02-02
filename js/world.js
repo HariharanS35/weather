@@ -128,6 +128,7 @@ searchinput.addEventListener("keydown", async function (event) {
   }
 });
 
+//default city to show weathers
 city("London");
 city("Kandy");
 city("Colombo");
